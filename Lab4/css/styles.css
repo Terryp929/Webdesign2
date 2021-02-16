@@ -1,0 +1,22 @@
+body { 
+    background-color: lightslategray;
+
+}
+img {
+    max-width: 100;
+
+    a {
+        color: black;
+    }
+    a:hover {
+        color: white;
+        text-decoration: none;
+    }
+
+    #container {
+        width: 75;
+        margin: 20px auto;
+        border: 4px solid black;
+        padding: 20px;
+    }
+}
