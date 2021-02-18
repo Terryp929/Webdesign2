@@ -28,7 +28,7 @@ a:hover {
 header {
     font-size: 40px;
     text-align: center;
-    color: tan
+    color: grey
 
 }
 
@@ -50,7 +50,7 @@ nav a:hover {
 
 main{
 
-    background-color: tan;
+    background-color: grey;
     margin: 20px;
     padding: 20px;
     border: 2px solid black;
