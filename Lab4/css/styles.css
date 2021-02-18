@@ -13,7 +13,7 @@ a {
 }
 
 a:hover {
-    color:lightgray;
+    color: red;
 
 }
 
@@ -38,13 +38,13 @@ nav {
 
 nav a {
     color: black;
-    font-size: 22px;
+    font-size: 20px;
     margin: 0 20px;
 
 }
 
 nav a:hover {
-    color: lightgray;
+    color: red;
     text-decoration: darkgray;
 }
 
@@ -64,10 +64,10 @@ img {
 }
 
 footer{
-    background-color: lightgray;
+    background-color: lightgrey;
     padding: 40px 0;
     text-align: center;
-    color: darkgray;
+    color: darkslateblue;
 
 }
 
