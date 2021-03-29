@@ -1,0 +1,71 @@
+/* Global Styles */
+
+body {
+    background-color: tan;
+}
+
+img {
+    max-width: 100%;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+/* Mobile Styles */
+
+header {
+    background-color: white;
+    padding: 40px 0;
+    text-align: center;
+
+}
+
+nav {
+    background-color: white;
+    text-align: center;
+    
+
+}
+nav ul {
+    padding: 0;
+    list-style-image: none;
+}
+
+nav li {
+    display: block;
+
+}
+
+nav li a {
+    display: block;
+    padding: 15px 0;
+    border-top: 1px solid tan;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav ul a:hover {
+    background-color: orangered;
+
+}
+
+main {
+    background-color: white;
+    padding: 20px;
+    margin: 10px;
+}
+
+footer {
+    background-color: white;
+    text-align: center;
+    padding:  20px 0;
+    margin: 10px;
+}
+
