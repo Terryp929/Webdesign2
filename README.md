@@ -9,6 +9,7 @@
     <li><a href="Midterm/index.html" target="_blank">Midterm - Midterm Project</a></li>
     <li><a href="Lab5/index.html" target="_blank">Lab5 - Responsive Project</a></li>
     <li><a href="Lab6/index.html" target="_blank">Lab6 - Introduction to Responsive Design</a></li>
+    <li><a href="Lab7/index.html" target="_blank">Lab7 - Audio, Video and Tables</a></li>
     
 </ul>
 
